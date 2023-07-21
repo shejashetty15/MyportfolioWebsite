@@ -141,6 +141,12 @@ nav ul li a:hover{
     max-width: 80vw;
     margin: auto ;
 }
+.sectionupper1{
+    border: 0;
+    background-color: rgb(168, 103, 230);
+    height: 1.2px;
+    margin: 30px; 
+}
 .sectionupper{
     border: 0;
     background-color: rgb(168, 103, 230);
@@ -308,6 +314,7 @@ nav ul li a:hover{
     }
     .sectionupper{
         width: 1000px;
+        margin-top: 700px;
     }
     .firstsection{
         width: 1200px;
