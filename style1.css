@@ -62,6 +62,8 @@ nav ul li a:hover{
     margin: 23px 0;
     /* margin-bottom: 0px; */
     margin-top: 20px;
+    /* height: 500px; */
+    /* margin-bottom: 0px; */
 }
 .firstsection > div{
     width: 40%;
@@ -298,7 +300,7 @@ nav ul li a:hover{
 @media screen and (max-width: 1100px) {
     nav{
         flex-direction: column;
-        height: 120px;
+        height: 220px;
         width: 1200px;
     }
     nav .left{
@@ -322,6 +324,7 @@ nav ul li a:hover{
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
+    /* height: 400px; */
   }
   .box{
     flex-direction: column;
